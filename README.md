@@ -311,16 +311,6 @@ PORT=3002
 
 ---
 
-### 🔑 **Demo Login Credentials**
-
-For quick access to the Orbit dashboard, you can use the following demo account:
-
-**Username:** demo@statzhub.com  
-**Password:** Demo@123
-
-> ⚠️ These credentials belong to a sample user created only for demo/testing.  
-> No real financial or personal data is connected.
-
 ### 📜 **License**
 
 MIT License © 2025 **StatzHub**
